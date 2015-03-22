@@ -1,4 +1,4 @@
-##This is a forked repository produced (by Gary Burrows) as part of the Data Scientist's Toolbox course project.
+###This is a forked repository of jtleek/datasharing created (by Gary Burrows) as part of the Data Scientist's Toolbox course project.
 
 
 How to share data with a statistician
